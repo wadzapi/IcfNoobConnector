@@ -1,0 +1,20 @@
+java/connector-server-zip/target/
+java/connector-framework/target/
+java/connector-framework-internal/target/
+java/connector-framework-contract/target/
+java/connector-framework-osgi/target/
+java/connector-test-common/target/
+java/slf4j-logging/target/
+java/testbundlev1/target/
+java/testbundlev2/target/
+java/testcommonv1/target/
+java/testcommonv2/target/
+
+#IntelliJ IDEA stuff
+.idea/
+*.iml
+*.ipr
+*.iws
+#Project stuff
+HackedConnector/
+target/
