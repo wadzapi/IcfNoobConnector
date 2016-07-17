@@ -92,10 +92,15 @@
             <version>${jsch.version}</version>
         </dependency>
         <!-- DB/Postgresql deps -->
-        <dependency>
+        <!--<dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
             <version>9.4.1209.jre7</version>
+        </dependency>-->
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.4</version>
         </dependency>
         <!-- TEST -->
         <dependency>
